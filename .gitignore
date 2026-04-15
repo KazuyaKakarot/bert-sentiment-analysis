@@ -5,3 +5,6 @@ __pycache__/
 models/
 *.pt
 *.bin
+*.zip
+data/
+logs/
