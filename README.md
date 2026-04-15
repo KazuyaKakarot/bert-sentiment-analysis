@@ -12,6 +12,7 @@ A REST API that classifies movie reviews as Positive or Negative using a fine-tu
 **Improvement: +2.59 points (+2.9%) over baseline**
 
 ## Project Structure
+```
 bert-sentiment/
 ├── baseline.py        # TF-IDF + Logistic Regression baseline
 ├── train.py           # DistilBERT fine-tuning (run on Google Colab)
@@ -19,7 +20,7 @@ bert-sentiment/
 ├── requirements.txt   # Dependencies
 └── data/
 └── final_results.csv
-
+```
 ## Setup
 
 ```bash
